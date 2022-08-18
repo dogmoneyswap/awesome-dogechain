@@ -112,7 +112,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Tools
 
 - [$UDOGE](https://t.me/UtilityDoge) - Utility Meme Token creating an Ecosystem of Anti-skem & Useful Tools/Utilities for the DogeChain community!
-- [dafu.app](https://dafu.app/safety) - HoneyPot and Taxes Checkdd
+- [dafu.app](https://dafu.app/safety) - HoneyPot and Taxes Check
 
 ## Bridges
 
