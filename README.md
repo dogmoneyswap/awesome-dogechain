@@ -94,6 +94,10 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [$UDOGE](https://t.me/UtilityDoge) - Utility Meme Token creating an Ecosystem of Anti-skem & Useful Tools/Utilities for the DogeChain community!
 
+## Bridges
+
+- [Multichain Cross Chain Router Protocol](https://app.multichain.org/#/router) - Cross chain token bridge
+
 ## Faucets
 
 - [Testnet Faucet](https://faucet.dogechain.dog/) [[src]](https://faucet.dogechain.dog/)
@@ -103,3 +107,14 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## General
 
 - [DogeChain docs](https://docs.dogechain.dog/docs/overview) - many useful resources
+
+# Social Groups
+
+## Chatrooms
+
+- [t.me/DogeChainOfficial](https://t.me/DogeChainOfficial) - DogeChainOfficial chat
+- [t.me/dogechainmoonshotgems](https://t.me/dogechainmoonshotgems) - MoonShots
+
+## Forums
+
+- [MoonShotsDogechain subreddit](https://www.reddit.com/r/MoonShotsDogechain/) - MoonShots
