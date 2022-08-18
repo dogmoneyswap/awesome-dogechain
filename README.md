@@ -108,6 +108,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Entertainment
 
 - [#DogePunk](https://dogepunk.finance/) - DOGEPUNK ($DOGEPUNK) consists of a group of tokens, each with their own situation and use case scenario
+- [DOGE PRINT](https://www.dogep.dog/) - much reflections. many doge. very defi.
 
 ## Tools
 
