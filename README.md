@@ -40,6 +40,9 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Entertainment](#entertainment)
   - [Tools](#tools)
   - [Faucets](#faucets)
+- [Social Groups](#social-groups)
+  - [Chat Rooms](#chatrooms)
+  - [Forums](#forums)
 - [Documentation](#documentation)
   - [Roadmaps](#roadmaps)
   - [General](#general)
@@ -102,12 +105,6 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [Testnet Faucet](https://faucet.dogechain.dog/) [[src]](https://faucet.dogechain.dog/)
 
-# Documentation
-
-## General
-
-- [DogeChain docs](https://docs.dogechain.dog/docs/overview) - many useful resources
-
 # Social Groups
 
 ## Chatrooms
@@ -118,3 +115,10 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Forums
 
 - [MoonShotsDogechain subreddit](https://www.reddit.com/r/MoonShotsDogechain/) - MoonShots
+
+# Documentation
+
+## General
+
+- [DogeChain docs](https://docs.dogechain.dog/docs/overview) - many useful resources
+
