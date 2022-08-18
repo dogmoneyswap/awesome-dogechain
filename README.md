@@ -85,12 +85,12 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [dogeswap.org](https://dogeswap.org/) - [[tg]](https://t.me/DogeSwap_Org) Uniswap fork on DogeChain
 - [dogeshrek.com](https://dogeshrek.com/) - [[tg]](https://telegram.me/dogeshrek) #Dogeshrek is a DEX on #dogechain it is currently in active development. 
 - [yodeswap.com](https://yodeswap.dog/exchange/swap) - [[tg]](https://t.me/YodeSwap) DEX on DogeChain
-- [inuswap.dog/](http://inuswap.dog/) - [[tg]](https://t.me/InuSwapDOGE) DEX on DogeChain
+- [inuswap.dog](http://inuswap.dog/) - [[tg]](https://t.me/InuSwapDOGE) DEX on DogeChain
 - [dogefarm.com](https://dogefarm.bourbondefi.com) - [[tg]](https://t.me/BourbonDAO) High yields bottled on DogeChain
 
 ## Launchpads
 
-[pandasale.finance](https://pandasale.finance/?chain=DOGECHAIN) - [[tg]](https://t.me/PandaEcosystem) PandaSale enables projects to create tokens and presales in a matter of seconds.
+- [pandasale.finance](https://pandasale.finance/?chain=DOGECHAIN) - [[tg]](https://t.me/PandaEcosystem) PandaSale enables projects to create tokens and presales in a matter of seconds.
 
 
 ## NFTs
