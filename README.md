@@ -82,35 +82,36 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## DEXs
 
-- [dogeswap.org](https://dogeswap.org/) - Uniswap fork on DogeChain
-- [dogeshrek.com](https://dogeshrek.com/) - #Dogeshrek is a DEX on #dogechain it is currently in active development.
-- [yodeswap.com](https://yodeswap.dog/exchange/swap) - DEX on DogeChain
-- [inuswap.dog/](http://inuswap.dog/) - DEX on DogeChain
-- [dogefarm.com](https://dogefarm.bourbondefi.com) - High yields bottled on DogeChain
+- [dogeswap.org](https://dogeswap.org/) - [[tg]](https://t.me/DogeSwap_Org) Uniswap fork on DogeChain
+- [dogeshrek.com](https://dogeshrek.com/) - [[tg]](https://telegram.me/dogeshrek) #Dogeshrek is a DEX on #dogechain it is currently in active development. 
+- [yodeswap.com](https://yodeswap.dog/exchange/swap) - [[tg]](https://t.me/YodeSwap) DEX on DogeChain
+- [inuswap.dog/](http://inuswap.dog/) - [[tg]](https://t.me/InuSwapDOGE) DEX on DogeChain
+- [dogefarm.com](https://dogefarm.bourbondefi.com) - [[tg]](https://t.me/BourbonDAO) High yields bottled on DogeChain
 
 ## Launchpads
 
-[pandasale.finance](https://pandasale.finance/?chain=DOGECHAIN) - PandaSale enables projects to create tokens and presales in a matter of seconds.
+[pandasale.finance](https://pandasale.finance/?chain=DOGECHAIN) - [[tg]](https://t.me/PandaEcosystem) PandaSale enables projects to create tokens and presales in a matter of seconds.
 
 
 ## NFTs
 
-- [DOGErobots](https://ba.net/dogerobots/nft/automint.html) - Mint your own unique DOGErobot
-- [SurvivalInu](https://survivalinu.com/) - SINU Is The Symbol Of Survival Inu Which Will Be The Leading Of Upcoming Play To Earn Meme Eco-System
-- [Dogpunk](https://www.dogpunk.me/) - The DogePunk are 10,000 uniquely generated characters. If you have DogePunk NFT, you can claim Punk Token for free. Punk Token is the DAO governance token
-- [OpeanSeaNFT](https://openseanft.land/) - Play to Earn & a virtual gaming world where players can build, own, play, and earn. Discovery in OpenSea land.
+- [DOGErobots](https://ba.net/dogerobots/nft/automint.html) - [[tg]](https://t.me/slppony) Mint your own unique DOGErobot
+- [SurvivalInu](https://survivalinu.com/) - [[tg]](https://t.me/survivalinu) SINU Is The Symbol Of Survival Inu Which Will Be The Leading Of Upcoming Play To Earn Meme Eco-System
+- [Dogpunk](https://www.dogpunk.me/) - [[tg]](https://t.me/Doge_punk) The DogePunk are 10,000 uniquely generated characters. If you have DogePunk NFT, you can claim Punk Token for free. Punk Token is the DAO governance token
+- [OpeanSeaNFT](https://openseanft.land/) - [[discord]](https://discord.com/invite/7YJz3SFTJm) Play to Earn & a virtual gaming world where players can build, own, play, and earn. Discovery in OpenSea land.
 - [Dogechain Shiba Pack](https://dogechainshibas.dog/) - Mint your Shiba Here
 
 ## NFT Marketplace
 
-- [Wolfdog](https://wolfdoge.site/) - The collection built by and run by WOLFDOGE.
+- [Wolfdog](https://wolfdoge.site/) - [[tg]](https://t.me/wolf_dogechain) The collection built by and run by WOLFDOGE.
 
 ## Entertainment
 
-- [#DogePunk](https://dogepunk.finance/) - DOGEPUNK ($DOGEPUNK) consists of a group of tokens, each with their own situation and use case scenario
-- [DOGE PRINT](https://www.dogep.dog/) - much reflections. many doge. very defi.
-- [Wiener Doge](https://www.wienerdoge.dog/) - WienerDoge is one hot dog that is full of burn! Every buy and sell burns 6%.
-- [Fruits of Ryoshi](https://fruitsofryoshi.com/) - The Fruits of Our Labor
+- [#DogePunk](https://dogepunk.finance/) - [[tg]](https://t.me/DogePunkDC) DOGEPUNK ($DOGEPUNK) consists of a group of tokens, each with their own situation and use case scenario
+- [DOGE PRINT](https://www.dogep.dog/) - [[tg]](https://t.me/dogeprinterr) much reflections. many doge. very defi.
+- [Wiener Doge](https://www.wienerdoge.dog/) - [[tg]](https://t.me/wienerdoge) WienerDoge is one hot dog that is full of burn! Every buy and sell burns 6%.
+- [Fruits of Ryoshi](https://fruitsofryoshi.com/) - [[tg]](https://t.me/FruitsofRyoshi) The Fruits of Our Labor
+- [OMNON](https://t.me/DogeEatDoge_OMNOM) - [[tg]](https://t.me/DogeEatDoge_OMNOM) Doge Eat Doge
 
 ## Tools
 
