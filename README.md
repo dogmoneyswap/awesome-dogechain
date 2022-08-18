@@ -36,10 +36,14 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [Projects Built on DogeChain](#projects-built-on-dogechain)
   - [DEXs](#dexs)
   - [NFTs](#nfts)
+  - [Launchpads](#launchpads)
   - [Apps (Social)](#apps-social)
   - [Entertainment](#entertainment)
   - [Tools](#tools)
   - [Faucets](#faucets)
+- [Social Groups](#social-groups)
+  - [Chat Rooms](#chatrooms)
+  - [Forums](#forums)
 - [Documentation](#documentation)
   - [Roadmaps](#roadmaps)
   - [General](#general)
@@ -81,10 +85,10 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [dogeswap.org](https://dogeswap.org/) - Uniswap fork on DogeChain
 - [dogeshrek.com](https://dogeshrek.com/) - #Dogeshrek is a DEX on #dogechain it is currently in active development.
 - [yodeswap.com](https://yodeswap.dog/exchange/swap) - DEX on DogeChain
-- [inuswap.dog/](http://inuswap.dog/) - DEX on DogeChain 
+- [inuswap.dog/](http://inuswap.dog/) - DEX on DogeChain
 - [dogefarm.com](https://dogefarm.bourbondefi.com) High yields bottled on DogeChain
 
-## Launchpad 
+## Launchpads
 
 [pandasale.finance](https://pandasale.finance/?chain=DOGECHAIN)
 
@@ -108,6 +112,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Tools
 
 - [$UDOGE](https://t.me/UtilityDoge) - Utility Meme Token creating an Ecosystem of Anti-skem & Useful Tools/Utilities for the DogeChain community!
+- [dafu.app](https://dafu.app/safety) - HoneyPot and Taxes Checkdd
 
 ## Bridges
 
@@ -116,16 +121,6 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Faucets
 
 - [Testnet Faucet](https://faucet.dogechain.dog/) [[src]](https://faucet.dogechain.dog/)
-
-## HoneyPot and Taxes Check 
-
-[dafu.app](https://dafu.app/safety)
-
-# Documentation
-
-## General
-
-- [DogeChain docs](https://docs.dogechain.dog/docs/overview) - many useful resources
 
 # Social Groups
 
@@ -137,3 +132,9 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Forums
 
 - [MoonShotsDogechain subreddit](https://www.reddit.com/r/MoonShotsDogechain/) - MoonShots
+
+# Documentation
+
+## General
+
+- [DogeChain docs](https://docs.dogechain.dog/docs/overview) - many useful resources
