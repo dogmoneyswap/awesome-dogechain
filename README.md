@@ -110,7 +110,8 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [DOGE PRINT](https://www.dogep.dog/) - [[tg]](https://t.me/dogeprinterr) much reflections. many doge. very defi.
 - [Wiener Doge](https://www.wienerdoge.dog/) - [[tg]](https://t.me/wienerdoge) WienerDoge is one hot dog that is full of burn! Every buy and sell burns 6%.
 - [Fruits of Ryoshi](https://fruitsofryoshi.com/) - [[tg]](https://t.me/FruitsofRyoshi) The Fruits of Our Labor
-- [OMNON](https://t.me/DogeEatDoge_OMNOM) - [[tg]](https://t.me/DogeEatDoge_OMNOM) Doge Eat Doge
+- [OMNON](https://omnomtoken.com/) - [[tg]](https://t.me/DogeEatDoge_OMNOM) Doge Eat Doge
+- [Astro Doge](https://astrodoge.dog/) - [[tg]](https://t.me/astrodogeportal) ASTRODOGE is a decentralized reserve currency based on bonding and POL concept introduced by Olympus DAO
 
 ## Tools
 
