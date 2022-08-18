@@ -109,6 +109,8 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [#DogePunk](https://dogepunk.finance/) - DOGEPUNK ($DOGEPUNK) consists of a group of tokens, each with their own situation and use case scenario
 - [DOGE PRINT](https://www.dogep.dog/) - much reflections. many doge. very defi.
+- [Wiener Doge](https://www.wienerdoge.dog/) - WienerDoge is one hot dog that is full of burn! Every buy and sell burns 6%.
+- [Fruits of Ryoshi](https://fruitsofryoshi.com/) - The Fruits of Our Labor
 
 ## Tools
 
