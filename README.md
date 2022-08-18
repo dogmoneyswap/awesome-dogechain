@@ -86,20 +86,20 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [dogeshrek.com](https://dogeshrek.com/) - #Dogeshrek is a DEX on #dogechain it is currently in active development.
 - [yodeswap.com](https://yodeswap.dog/exchange/swap) - DEX on DogeChain
 - [inuswap.dog/](http://inuswap.dog/) - DEX on DogeChain
-- [dogefarm.com](https://dogefarm.bourbondefi.com) High yields bottled on DogeChain
+- [dogefarm.com](https://dogefarm.bourbondefi.com) - High yields bottled on DogeChain
 
 ## Launchpads
 
-[pandasale.finance](https://pandasale.finance/?chain=DOGECHAIN)
+[pandasale.finance](https://pandasale.finance/?chain=DOGECHAIN) - PandaSale enables projects to create tokens and presales in a matter of seconds.
+
 
 ## NFTs
 
 - [DOGErobots](https://ba.net/dogerobots/nft/automint.html) - Mint your own unique DOGErobot
-- [SurvivalInu](https://survivalinu.com/)
-- [Dogpunk](https://www.dogpunk.me/)
-- [OpeanSeaNFT](https://openseanft.land/)
-- [Ba.net](https://ba.net/dogerobots/nft/automint.html)
-- [Dogechainshibas](https://dogechainshibas.dog/)
+- [SurvivalInu](https://survivalinu.com/) - SINU Is The Symbol Of Survival Inu Which Will Be The Leading Of Upcoming Play To Earn Meme Eco-System
+- [Dogpunk](https://www.dogpunk.me/) - The DogePunk are 10,000 uniquely generated characters. If you have DogePunk NFT, you can claim Punk Token for free. Punk Token is the DAO governance token
+- [OpeanSeaNFT](https://openseanft.land/) - Play to Earn & a virtual gaming world where players can build, own, play, and earn. Discovery in OpenSea land.
+- [Dogechain Shiba Pack](https://dogechainshibas.dog/) - Mint your Shiba Here
 
 ## NFT Marketplace
 
@@ -120,7 +120,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Faucets
 
-- [Testnet Faucet](https://faucet.dogechain.dog/) [[src]](https://faucet.dogechain.dog/)
+- [Testnet Faucet](https://faucet.dogechain.dog/) - Faucet for developers to get testnet wDOGE
 
 # Social Groups
 
