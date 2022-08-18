@@ -84,6 +84,8 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## NFTs
 
+- [DOGErobots](https://ba.net/dogerobots/nft/automint.html) - Mint your own unique DOGErobot
+
 ## Entertainment
 
 - [#DogePunk](https://dogepunk.finance/) - DOGEPUNK ($DOGEPUNK) consists of a group of tokens, each with their own situation and use case scenario
