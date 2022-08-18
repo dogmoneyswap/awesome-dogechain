@@ -103,7 +103,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## NFT Marketplace
 
-- [Wolfdog](https://wolfdoge.site/) - The collection built by and runby WOLFDOGE.
+- [Wolfdog](https://wolfdoge.site/) - The collection built by and run by WOLFDOGE.
 
 ## Entertainment
 
