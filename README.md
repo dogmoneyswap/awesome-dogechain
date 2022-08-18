@@ -51,7 +51,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 # Getting Started
 
 - [dogechain.dog](https://dogechain.dog/) - A general introduction to DogeChain.
-- [bridge.dogechain.dog](https://bridge.dogechain.dog/) - Bridge to DogeChain.
 - [explorer.dogechain.dog](https://explorer.dogechain.dog/) - DogeChain explorer based on BlockScout
 
 # Whitepaper
@@ -120,6 +119,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Bridges
 
+- [bridge.dogechain.dog](https://bridge.dogechain.dog/) - Bridge Doge to DogeChain.
 - [Multichain Cross Chain Router Protocol](https://app.multichain.org/#/router) - Cross chain token bridge
 
 ## Faucets
