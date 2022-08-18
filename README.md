@@ -62,7 +62,7 @@ Below is a copy of the original whitepaper:
 
 # Open-Source Wallets
 
-Below are non-custodial open-source wallets that work with DogeChain.
+Below are non-custodial wallets that work with DogeChain.
 
 ## Mobile
 
