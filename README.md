@@ -117,6 +117,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [$UDOGE](https://t.me/UtilityDoge) - Utility Meme Token creating an Ecosystem of Anti-skem & Useful Tools/Utilities for the DogeChain community!
 - [dafu.app](https://dafu.app/safety) - HoneyPot and Taxes Check
+- [Doge Tools](https://www.dogechain.tools/) - [[tg]](https://t.me/DogeToolsDC) - DogeTools a unique suite of services bringing value to Dogechain
 
 ## Bridges
 
