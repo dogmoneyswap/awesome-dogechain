@@ -113,6 +113,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [OMNON](https://omnomtoken.com/) - [[tg]](https://t.me/DogeEatDoge_OMNOM) Doge Eat Doge
 - [Astro Doge](https://astrodoge.dog/) - [[tg]](https://t.me/astrodogeportal) ASTRODOGE is a decentralized reserve currency based on bonding and POL concept introduced by Olympus DAO
 - [Bourbon](https://bourbondao.com/) - [[tg]](https://t.me/BourbonDao) Decentralized Bourbon Reserve Currency
+- [Doge Inu](https://dogeinu.io/) - [[tg]](https://t.me/DogeInuToken) Doge Inu is the ultimate community token on the DogeChain. With 0% tax and no team or dev, Doge Inu is the best memecoin on the top meme EVM chain
 
 ## Tools
 
