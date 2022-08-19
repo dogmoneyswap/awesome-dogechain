@@ -86,6 +86,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [yodeswap.com](https://yodeswap.dog/exchange/swap) - [[tg]](https://t.me/YodeSwap) DEX on DogeChain
 - [inuswap.dog](http://inuswap.dog/) - [[tg]](https://t.me/InuSwapDOGE) DEX on DogeChain
 - [dogefarm.com](https://dogefarm.bourbondefi.com) - [[tg]](https://t.me/BourbonDAO) High yields bottled on DogeChain
+- [dogmoney.money](https://app.dogmoney.money) - [[tg]](https://t.me/DogMoneyOfficial) Trade, launch, stake, farm, invest, automate, build on the premier DeFi platform of DogeChain
 
 ## Launchpads
 
