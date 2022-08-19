@@ -112,6 +112,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [Fruits of Ryoshi](https://fruitsofryoshi.com/) - [[tg]](https://t.me/FruitsofRyoshi) The Fruits of Our Labor
 - [OMNON](https://omnomtoken.com/) - [[tg]](https://t.me/DogeEatDoge_OMNOM) Doge Eat Doge
 - [Astro Doge](https://astrodoge.dog/) - [[tg]](https://t.me/astrodogeportal) ASTRODOGE is a decentralized reserve currency based on bonding and POL concept introduced by Olympus DAO
+- [Bourbon](https://bourbondao.com/) - [[tg]](https://t.me/BourbonDao) Decentralized Bourbon Reserve Currency
 
 ## Tools
 
