@@ -101,6 +101,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [Dogpunk](https://www.dogpunk.me/) - [[tg]](https://t.me/Doge_punk) The DogePunk are 10,000 uniquely generated characters. If you have DogePunk NFT, you can claim Punk Token for free. Punk Token is the DAO governance token
 - [OpeanSeaNFT](https://openseanft.land/) - [[discord]](https://discord.com/invite/7YJz3SFTJm) Play to Earn & a virtual gaming world where players can build, own, play, and earn. Discovery in OpenSea land.
 - [Dogechain Shiba Pack](https://dogechainshibas.dog/) - Mint your Shiba Here
+- [ĐNS](https://app.dogedomains.wf/) - Decentralised naming for wallets, websites, & more.
 
 ## NFT Marketplace
 
