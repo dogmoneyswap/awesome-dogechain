@@ -35,6 +35,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Browser](#browser)
 - [Projects Built on DogeChain](#projects-built-on-dogechain)
   - [DEXs](#dexs)
+  - [Aggregators](#aggregators)
   - [NFTs](#nfts)
   - [Launchpads](#launchpads)
   - [Apps (Social)](#apps-social)
@@ -89,6 +90,10 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [dogmoney.money](https://app.dogmoney.money) - [[tg]](https://t.me/DogMoneyOfficial) Trade, launch, stake, farm, invest, automate, build on the premier DeFi platform of DogeChain
 - [quickswap.exchange](https://dogechain.quickswap.exchange/#/swap) - QuickSwap is a next-generation layer-2 decentralized exchange and Automated Market Maker
 
+## Aggregators
+
+- [anjiswap.com](https://anjiswap.com/dogechain) - [[tg]](https://t.me/anjieco) DeFi for a better future? Discover AnjiSwap
+
 ## Launchpads
 
 - [pandasale.finance](https://pandasale.finance/?chain=DOGECHAIN) - [[tg]](https://t.me/PandaEcosystem) PandaSale enables projects to create tokens and presales in a matter of seconds.
@@ -101,7 +106,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [Dogpunk](https://www.dogpunk.me/) - [[tg]](https://t.me/Doge_punk) The DogePunk are 10,000 uniquely generated characters. If you have DogePunk NFT, you can claim Punk Token for free. Punk Token is the DAO governance token
 - [OpeanSeaNFT](https://openseanft.land/) - [[discord]](https://discord.com/invite/7YJz3SFTJm) Play to Earn & a virtual gaming world where players can build, own, play, and earn. Discovery in OpenSea land.
 - [Dogechain Shiba Pack](https://dogechainshibas.dog/) - Mint your Shiba Here
-- [Đoge Name Service](https://app.dogedomains.wf/) - Decentralised naming for wallets, websites, & more.
+- [Đoge Name Service](https://app.dogedomains.wf/) - [[tg]](https://t.me/DogeNameService) Decentralised naming for wallets, websites, & more.
 
 ## NFT Marketplace
 
