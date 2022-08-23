@@ -147,6 +147,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Forums
 
+- [DogeChainFamily subreddit](https://www.reddit.com/r/DogeChainFamily/) - DogeChainFamily
 - [MoonShotsDogechain subreddit](https://www.reddit.com/r/MoonShotsDogechain/) - MoonShots
 
 # Documentation
