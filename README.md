@@ -35,6 +35,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Browser](#browser)
 - [Projects Built on DogeChain](#projects-built-on-dogechain)
   - [DEXs](#dexs)
+  - [Yield Aggregators](#yield-aggregators)
   - [Aggregators](#aggregators)
   - [NFTs](#nfts)
   - [Launchpads](#launchpads)
@@ -90,6 +91,10 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [dogmoney.money](https://app.dogmoney.money) - [[tg]](https://t.me/DogMoneyOfficial) Trade, launch, stake, farm, invest, automate, build on the premier DeFi platform of DogeChain
 - [quickswap.exchange](https://dogechain.quickswap.exchange/#/swap) - QuickSwap is a next-generation layer-2 decentralized exchange and Automated Market Maker
 
+## Yield aggregator
+
+- [autobark.lol](https://www.autobark.lol/#/dogechain) - [[tg]](https://t.me/AutoBarkChat) DogeChain's Much wOw! aPy!
+
 ## Aggregators
 
 - [anjiswap.com](https://anjiswap.com/dogechain) - [[tg]](https://t.me/anjieco) DeFi for a better future? Discover AnjiSwap
@@ -125,9 +130,12 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [Astro Doge](https://astrodoge.dog/) - [[tg]](https://t.me/astrodogeportal) ASTRODOGE is a decentralized reserve currency based on bonding and POL concept introduced by Olympus DAO
 - [Bourbon](https://bourbondao.com/) - [[tg]](https://t.me/BourbonDao) Decentralized Bourbon Reserve Currency
 - [Doge Inu](https://dogeinu.io/) - [[tg]](https://t.me/DogeInuToken) Doge Inu is the ultimate community token on the DogeChain. With 0% tax and no team or dev, Doge Inu is the best memecoin on the top meme EVM chain
+- [NotDoge](https://twitter.com/notdogeDC) - [[tg]](https://t.me/NotDogeDogeChain) - $NotDoge #NotDoge on #DogeChain Not Doge. Liquidity Burned. community, That’s It.
 
 ## Tools
 
+- [DefiLlama](https://defillama.com/chain/Dogechain) - DefiLlama is a DeFi TVL aggregator. It is committed to providing accurate data without ads or sponsored content, as well as transparency.
+- [DEX Screener](https://dexscreener.com/dogechain) - Realtime Dogechain price charts and trading history
 - [$UDOGE](https://t.me/UtilityDoge) - Utility Meme Token creating an Ecosystem of Anti-skem & Useful Tools/Utilities for the DogeChain community!
 - [dafu.app](https://dafu.app/safety) - HoneyPot and Taxes Check
 - [Doge Tools](https://www.dogechain.tools/) - [[tg]](https://t.me/DogeToolsDC) - DogeTools a unique suite of services bringing value to Dogechain
@@ -136,6 +144,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [bridge.dogechain.dog](https://bridge.dogechain.dog/) - Bridge Doge to DogeChain.
 - [Multichain Cross Chain Router Protocol](https://app.multichain.org/#/router) - Cross chain token bridge
+- [Synapse](https://synapseprotocol.com/?inputCurrency=USDC++&outputCurrency=USDC++&outputChain=2000) - [[tg]](https://t.me/synapseprotocol) Synapse is a cross-chain layer ∞ protocol powering interoperability between chains.
 
 ## Faucets
 
