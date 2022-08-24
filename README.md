@@ -86,8 +86,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [dogeswap.org](https://dogeswap.org/) - [[tg]](https://t.me/DogeSwap_Org) Uniswap fork on DogeChain
 - [dogeshrek.com](https://dogeshrek.com/) - [[tg]](https://telegram.me/dogeshrek) #Dogeshrek is a DEX on #dogechain it is currently in active development. 
 - [yodeswap.com](https://yodeswap.dog/exchange/swap) - [[tg]](https://t.me/YodeSwap) DEX on DogeChain
-- [inuswap.dog](http://inuswap.dog/) - [[tg]](https://t.me/InuSwapDOGE) DEX on DogeChain
-- [dogefarm.com](https://dogefarm.bourbondefi.com) - [[tg]](https://t.me/BourbonDAO) High yields bottled on DogeChain
+- [dogefarm.bourbondefi.com](https://dogefarm.bourbondefi.com) - [[tg]](https://t.me/BourbonDAO) High yields bottled on DogeChain
 - [dogmoney.money](https://app.dogmoney.money) - [[tg]](https://t.me/DogMoneyOfficial) Trade, launch, stake, farm, invest, automate, build on the premier DeFi platform of DogeChain
 - [quickswap.exchange](https://dogechain.quickswap.exchange/#/swap) - QuickSwap is a next-generation layer-2 decentralized exchange and Automated Market Maker
 
