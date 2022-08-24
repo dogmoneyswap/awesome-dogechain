@@ -98,6 +98,9 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [pandasale.finance](https://pandasale.finance/?chain=DOGECHAIN) - [[tg]](https://t.me/PandaEcosystem) PandaSale enables projects to create tokens and presales in a matter of seconds.
 
+## Apps (Social)
+
+- [The Book of Dog](https://bookofdog.doge.wf) - [[tg]](https://t.me/mazetokens) The Book of Dog is a blockchain guestbook and token distribution application.
 
 ## NFTs
 
