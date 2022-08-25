@@ -31,8 +31,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [State of the Project](#state-of-the-project)
 - [Whitepaper](#whitepaper)
 - [Open-Source Wallets](#open-source-wallets)
-  - [Mobile](#mobile)
-  - [Browser](#browser)
 - [Projects Built on DogeChain](#projects-built-on-dogechain)
   - [DEXs](#dexs)
   - [Yield Aggregators](#yield-aggregators)
@@ -69,13 +67,8 @@ Below is a copy of the original whitepaper:
 
 Below are non-custodial wallets that work with DogeChain.
 
-## Mobile
-
-- [MetaMask](https://metamask.io) - Android [[src]](https://play.google.com/store/apps/details?id=io.metamask) and iOS [[src]](https://apps.apple.com/us/app/metamask-blockchain-wallet/id1438144202) versions are also available
-
-## Browser
-
-- [MetaMask](https://metamask.io) - Android [[src]](https://play.google.com/store/apps/details?id=io.metamask) and iOS [[src]](https://apps.apple.com/us/app/metamask-blockchain-wallet/id1438144202) versions are also available
+- [MetaMask](https://metamask.io) - A crypto wallet & gateway to blockchain apps
+- [Doge Safe](https://safe.dogmoney.money/) - Dog Safe is the most trusted platform to manage digital assets on Dogechain. It is based on Gnosis Safe.
 
 # Projects Built on DogeChain
 
