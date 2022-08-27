@@ -32,6 +32,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [Whitepaper](#whitepaper)
 - [Open-Source Wallets](#open-source-wallets)
 - [Projects Built on DogeChain](#projects-built-on-dogechain)
+  - [Explorers](#explorers)
   - [DEXs](#dexs)
   - [Yield Aggregators](#yield-aggregators)
   - [Aggregators](#aggregators)
@@ -51,7 +52,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 # Getting Started
 
 - [dogechain.dog](https://dogechain.dog/) - A general introduction to DogeChain.
-- [explorer.dogechain.dog](https://explorer.dogechain.dog/) - DogeChain explorer based on BlockScout
 
 # Whitepaper
 
@@ -73,6 +73,11 @@ Below are non-custodial wallets that work with DogeChain.
 # Projects Built on DogeChain
 
 All of these apps are mostly stable and active. Always check the notes of a particular project before risking a large sum of value. Links are checked on a weekly basis, but function is not checked.
+
+## Explorers
+
+- [explorer.dogechain.dog](https://explorer.dogechain.dog/) - DogeChain explorer based on BlockScout
+- [explorer.dogmoney.money](https://explorer.dogmoney.money/) - DogeChain explorer "Sonar" with ĐNS support
 
 ## DEXs
 
