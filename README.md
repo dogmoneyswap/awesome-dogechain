@@ -87,6 +87,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [dogefarm.bourbondefi.com](https://dogefarm.bourbondefi.com) - [[tg]](https://t.me/BourbonDAO) High yields bottled on DogeChain
 - [dogmoney.money](https://app.dogmoney.money) - [[tg]](https://t.me/DogMoneyOfficial) Trade, launch, stake, farm, invest, automate, build on the premier DeFi platform of DogeChain
 - [quickswap.exchange](https://dogechain.quickswap.exchange/#/swap) - QuickSwap is a next-generation layer-2 decentralized exchange and Automated Market Maker
+- [memetools.app](https://memetools.app) - [[tg]](https://t.me/memetools) Listing platform and data aggregator for meme tokens, which supports Dogechain
 
 ## Yield aggregator
 
