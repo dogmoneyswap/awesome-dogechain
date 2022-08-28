@@ -36,6 +36,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [DEXs](#dexs)
   - [Yield Aggregators](#yield-aggregators)
   - [Aggregators](#aggregators)
+  - [NFT Marketplaces](#nft-marketplaces)
   - [NFTs](#nfts)
   - [Launchpads](#launchpads)
   - [Apps (Social)](#apps-social)
@@ -103,6 +104,10 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Apps (Social)
 
 - [The Book of Dog](https://bookofdog.doge.wf) - [[tg]](https://t.me/mazetokens) The Book of Dog is a blockchain guestbook and token distribution application.
+
+## NFT Marketplaces
+
+- [Oasis](https://oasis-nft.dog) - [[tg]](https://t.me/oasis_dogechain) NFT Marketplace on dogechain
 
 ## NFTs
 
