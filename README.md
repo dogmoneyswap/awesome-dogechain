@@ -104,7 +104,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Apps (Social)
 
-- [The Book of Dog](https://bookofdog.doge.wf) - [[tg]](https://t.me/mazetokens) The Book of Dog is a blockchain guestbook and token distribution application.
+- [The Book of Dog](https://bookofdog.doge.wf) - [[tg]](https://t.me/bookofdog_doge) The Book of Dog - blockchain guestbook and token distribution application.
 
 ## NFT Marketplaces
 
@@ -118,6 +118,8 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [OpeanSeaNFT](https://openseanft.land/) - [[discord]](https://discord.com/invite/7YJz3SFTJm) Play to Earn & a virtual gaming world where players can build, own, play, and earn. Discovery in OpenSea land.
 - [Dogechain Shiba Pack](https://dogechainshibas.dog/) - Mint your Shiba Here
 - [Đoge Name Service](https://app.dogedomains.wf/) - [[tg]](https://t.me/DogeNameService) Decentralised naming for wallets, websites, & more.
+- [RENDERAI NFT](https://renderai.art) - [[tg]](https://t.me/renderai_nft) Collection od AI-generated works of art (stable-diffusion).
+- [DEADHEADZ NFT](https://headz.netlify.app) - [[tg]](https://t.me/mazetokens) Satire collection od AI-generated works of art (stable-diffusion). Mint, stake, buy & sell DEADHEADZ.
 
 ## NFT Marketplace
 
